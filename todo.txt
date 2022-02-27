@@ -1,0 +1,2 @@
+moderation: wrong name failsafe
+-clear : deletes much too many messages
